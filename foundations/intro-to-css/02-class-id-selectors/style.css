@@ -1,0 +1,16 @@
+.red{
+    background-color: #e9d2d2;
+    font-family: Verdana,sans-serif;
+}
+.red.big {
+    font-size: 24px;
+}
+#blue {
+    font-size: 30px;
+    color: #083ed1;
+}
+#green {
+    font-size: 34px;
+    font-weight: bold;
+    background-color: #00ac56;
+}
