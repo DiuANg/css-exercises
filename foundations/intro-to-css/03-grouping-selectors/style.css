@@ -1,0 +1,12 @@
+button{
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.black{
+    font-weight: bold;
+    color: azure;
+    background-color: black;
+}
+.yellow{
+    background-color: yellow;
+}
